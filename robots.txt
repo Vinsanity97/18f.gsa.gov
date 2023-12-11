@@ -3,3 +3,6 @@
 User-agent: *
 Disallow:
 Sitemap: {{ site.url }}/sitemap.xml
+ /*******************************
+         * Code your program here
+         *******************************/ 
